@@ -42,6 +42,7 @@ header h1 {
 
 .post {
     width: calc(33.33% - 20px); 
+    height: 30%;
     border: 1px solid #0A2A54; 
     border-radius: 5px;
     overflow: hidden;
